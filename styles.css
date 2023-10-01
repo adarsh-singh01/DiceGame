@@ -1,0 +1,33 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+
+.dice{display: inline-block;
+    text-align: center;
+}
+
+img {
+        width: 80%;
+        
+      }
+
+body{background-color: #393E46;}
+
+h1{color:blueviolet;
+    font-family: 'Tilt Prism', cursive;
+font-size: 8rem;
+text-align: center;}
+p {
+    font-size: 2rem;
+    color:red;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+    margin-top: 1px;
+  }
+
+footer{color:white;
+    font-family: 'Tilt Prism', cursive;
+font-size: 1rem;
+text-align: center;}
